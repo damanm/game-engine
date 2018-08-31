@@ -1,3 +1,3 @@
 # game-engine  
 
-Game Engine Dev from Jamie King's YouTube channel
+Simple Game Engine development from Jamie King's YouTube playlist
